@@ -1,6 +1,4 @@
-# DATA-100
-
-## First R script
+## First "project"-challenge problem
 ### Feb.1 2021
 
 I finished my first little R project (the path between 7 randomly chosen houses)by following the instructions from [Prof. Tyler's webpage](https://tyler-frazier.github.io/dsbook/rstart.html)
