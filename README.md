@@ -8,4 +8,4 @@ Here is the image of my graph:
 
 https
 
-[data-100](...)
+[challenge](https://xingyu-wang02.github.io/DATA-100/challenge.html)
