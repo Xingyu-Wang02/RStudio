@@ -5,4 +5,4 @@ I am a freshman at College of William & Mary. I am interested in Economics and S
 ![cat](https://github.com/Xingyu-Wang02/DATA-100/blob/main/cat.JPG)
 
 ## Informal Responses:First R "project"-challenge problem
-[challenge problem](https://xingyu-wang02.github.io/DATA-100/challenge.html)
+[challenge problem](https://xingyu-wang02.github.io/DATA-100/challenge1.html)
