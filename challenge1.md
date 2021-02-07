@@ -1,5 +1,6 @@
-Hello Wicked Problem
-![](my_plot.png)
+### First "project"-challenge problem-Feb.1 2021
 
+I finished my first little R project (the path between 7 randomly chosen houses)by following the instructions from [Prof. Tyler's webpage](https://tyler-frazier.github.io/dsbook/rstart.html)
+Here is the image of my graph:
 
-Here is a brief description of me on Christmas Day
+![image](https://github.com/Xingyu-Wang02/DATA-100/blob/main/pictures/plot_zoom.png)
