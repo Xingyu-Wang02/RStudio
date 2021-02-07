@@ -1,11 +1,5 @@
-## First "project"-challenge problem
-### Feb.1 2021
+## Hello World! My name is Xingyu Wang from BEIJING, CHINA🇨🇳
+I am a freshman at College of William & Mary. I am interested in Economics and Statistics. I like lisening to music and playing instrument. I've played the piano for more than ten years. I am also learning flute and guitar myself during my spare time! Besides, I love running and playing badmiton. Looking forward to meet you all at W&M!
 
-I finished my first little R project (the path between 7 randomly chosen houses)by following the instructions from [Prof. Tyler's webpage](https://tyler-frazier.github.io/dsbook/rstart.html)
-Here is the image of my graph:
+## First R "project"-challenge problem
 
-![image](https://github.com/Xingyu-Wang02/DATA-100/blob/main/pictures/plot_zoom.png)
-
-https
-
-[challenge](https://xingyu-wang02.github.io/DATA-100/challenge.html)
