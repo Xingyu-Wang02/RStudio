@@ -7,3 +7,5 @@ I am a freshman at College of William & Mary. I am interested in Economics and S
 [challenge problem](https://xingyu-wang02.github.io/DATA-100/challenge1.html)
 
 [project-1](https://xingyu-wang02.github.io/DATA-100/project-1.html)
+
+[reflection-1](https://xingyu-wang02.github.io/DATA-100/reflection-1.html)
