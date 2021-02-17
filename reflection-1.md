@@ -1,0 +1,3 @@
+#Reflection for "Don’t forget people in the use of big data for development" [link](https://www.nature.com/articles/d41586-018-06215-5)
+
+Loading...
