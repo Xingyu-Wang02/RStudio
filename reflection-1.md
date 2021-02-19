@@ -20,7 +20,7 @@ I think some companies or enterprises have the intent to do things that contribu
 
 Second, it’s also not enough for the government or the charity to have good intent. They need will someone who knows the more efficient approach for solving the problem. Therefore, regarding the part of “deepen collaboration cooperation" in the article, I would like to add that governments/organizations should work with scientists to provide them with useful information or their intentions. We may also need economists to promote the collaboration in a more effective way (e.g. subsidy policy), or even people from other fields.
 
-**(2) "Transparency is the underlying issue to many of these problems, so an increase in this on both ends (data based issues & human based issues) could lead to better results." **
+**(2) "Transparency is the underlying issue to many of these problems, so an increase in this on both ends (data based issues & human based issues) could lead to better results."** 
 
 "Transparency" is a key issue that needs to be addressed, but it is not the main obstacle to connecting human development and technology. I think the “incentive” is a more crucial aspect; this is the thing that motivates people to remove all the obstacles, including the transparency issue. 
 
