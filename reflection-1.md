@@ -31,4 +31,5 @@
 ——my favorite quote from the article “Designing data-enabled applications that work in the real world will require a slower approach that **pays much more attention to the people behind the numbers**.”
 
 -Citation-
+
 (1) China News (https://www.chinanews.com/it/2020/05-19/9188794.shtml)
