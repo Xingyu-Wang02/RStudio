@@ -1,8 +1,8 @@
-#Reflection for "Don’t forget people in the use of big data for development" 
+# Reflection for "Don’t forget people in the use of big data for development" 
 
 [Don’t forget people in the use of big data for development](https://www.nature.com/articles/d41586-018-06215-5) is a great article revealing one of the most valuable and meaningful aspects of data science. The article has changed my intention for learning the course and my understanding towards data science somehow. Originally, I was thinking data science as a powerful tool, and an extraordinary skill for getting a better job in fields like computer science or finance. However, I found out after reading the passage that the power of big data, and data science, is more than detecting the stock trends or analyzing consumer behaviors. Like what the title has said, we should not forget people in the use of big data for development, instead we should also follow their steps and try make the most of the data.
 
-The article is separated into 3 parts, promise, pitfalls, and ways forward. 
+The article is separated into 3 parts, **promise**, **pitfalls**, and **ways forward**. 
 
 In the beginning, the article suggests wider applications for data science. For example, the advertisement matching algorithms can be used to “match resource to people living in poverty;” technologies behind map apps could be utilized to facilitate poverty overcoming. 
 
@@ -12,15 +12,15 @@ Blumenstock points out in “unanticipated effects” some points I have not pai
 
 In the last part, the passage provides accesses for addressing the current issues, and expand upon three possible steps: validate, customize, deepen collaboration. Specifically, customization is a great solution to the problem of  “unanticipated effects” mentioned above.
 
-(1) "Good intent is not enough in data science when dealing with the problems which determine people's experiences"
+**(1) "Good intent is not enough in data science when dealing with the problems which determine people's experiences"**
 
 I agree with Anna’s statement that “Good intent is not enough in data science when dealing with the problems which determine people's experiences.” First, for those who have control over the technology, big tech companies for example, they need more specific motivation to carry forward new researches. I'm not saying that all companies are profit driven, or that they develop new technologies only when they are profitable. 
 
-I think some companies or enterprises have the intent to do things that contribute to the society; however, they may not have a clear goal or purpose to do so. When charitable donations are large enough, why not use them to promote a technology that can improve people's lives? I think the answer may be that there are not enough links between government departments and businesses. Therefore, it is hard for businesses in the private sector to start a new technology promotion. For example, “health code” (健康码) is an electronic certificate for individuals to enter and exit the local area during the COVID-19 period in China. In addition, the backstage will record each citizen’s track, timely locate suspected cases, and show high-risk places with crowded people. The idea of “health code” and the tracking system was derived from a policeman in HangZhou, who knew more about public management system, and moreover the exact demand at the point. “Health Code” then expanded from Hangzhou to the whole country. During this time, many tech giants (such as Alibaba and Tencent), as well as some smaller tech companies, have joined in the development of health code's big data technology [1]. In other words, it may not be enough for scientists to just “understand the problems and context” as the article mentioned; they also need more guidelines and information from people who need the technology, the government, the “clients.” 
+I think some companies or enterprises have the intent to do things that contribute to the society; however, they may not have a clear goal or purpose to do so. When charitable donations are large enough, why not use them to promote a technology that can improve people's lives? I think the answer may be that there are not enough links between government departments and businesses. Therefore, it is hard for businesses in the private sector to start a new technology promotion. For example, “health code” (健康码) is an electronic certificate for individuals to enter and exit the local area during the COVID-19 period in China. In addition, the backstage will record each citizen’s track, timely locate suspected cases, and show high-risk places with crowded people. The idea of “health code” and the tracking system was derived from a policeman in HangZhou, who knew more about public management system, and moreover the exact demand at the point. “Health Code” then expanded from Hangzhou to the whole country. During this time, many tech giants (such as Alibaba and Tencent), as well as some smaller tech companies, have joined in the development of health code's big data technology (1). In other words, it may not be enough for scientists to just “understand the problems and context” as the article mentioned; they also need more guidelines and information from people who need the technology, the government, the “clients.” 
 
 Second, it’s also not enough for the government or the charity to have good intent. They need will someone who knows the more efficient approach for solving the problem. Therefore, regarding the part of “deepen collaboration cooperation" in the article, I would like to add that governments/organizations should work with scientists to provide them with useful information or their intentions. We may also need economists to promote the collaboration in a more effective way (e.g. subsidy policy), or even people from other fields.
 
-(2) "Transparency is the underlying issue to many of these problems, so an increase in this on both ends (data based issues & human based issues) could lead to better results." 
+**(2) "Transparency is the underlying issue to many of these problems, so an increase in this on both ends (data based issues & human based issues) could lead to better results." **
 
 "Transparency" is a key issue that needs to be addressed, but it is not the main obstacle to connecting human development and technology. I think the “incentive” is a more crucial aspect; this is the thing that motivates people to remove all the obstacles, including the transparency issue. 
 
@@ -28,6 +28,7 @@ Referring to the word “transparency" or “incentive,” we can do this indire
 
 At last, I do not fully agree with the idea “a humbler data science.” On one hand, it’s nothing bad to do things driven by money as long as we are not wasting the resources and are doing something beneficial; on the other hand, paying attention on human development makes data science greater; we should always hold a positive and constructive view towards the future of it and pay more attention to “the people behind the numbers.”
 
-——my favorite quote from the article “Designing data-enabled applications that work in the real world will require a slower approach that pays much more attention to the people behind the numbers.”
+——my favorite quote from the article “Designing data-enabled applications that work in the real world will require a slower approach that **pays much more attention to the people behind the numbers**.”
 
-[1] China News (https://www.chinanews.com/it/2020/05-19/9188794.shtml)
+Citation
+(1) China News (https://www.chinanews.com/it/2020/05-19/9188794.shtml)
