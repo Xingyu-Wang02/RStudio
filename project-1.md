@@ -8,3 +8,5 @@ A closer look at Congo's biggest Départment, Likouala!
 ![project picture-2](https://xingyu-wang02.github.io/DATA-100/pictures/Likouala.png)
 
 #Stretch Goal-3
+Zoom in on two areas (It took me awhile to ajust the rectangles to the appropraite locations)
+![project picture-3](https://xingyu-wang02.github.io/DATA-100/pictures/details1.png)
