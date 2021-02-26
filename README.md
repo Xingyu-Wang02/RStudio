@@ -6,6 +6,10 @@ I am a freshman at College of William & Mary. I am interested in Economics and S
 ## Informal Responses:First R "project"-challenge problem
 [challenge problem](https://xingyu-wang02.github.io/DATA-100/challenge1.html)
 
+[reflection-1](https://xingyu-wang02.github.io/DATA-100/reflection-1.html)
+
+## Projects
+
 [project-1](https://xingyu-wang02.github.io/DATA-100/project-1.html)
 
-[reflection-1](https://xingyu-wang02.github.io/DATA-100/reflection-1.html)
+[project-2](https://xingyu-wang02.github.io/DATA-100/project-2.html)
