@@ -8,6 +8,8 @@ I am a freshman at College of William & Mary. I am interested in Economics and S
 
 [reflection-1](https://xingyu-wang02.github.io/DATA-100/reflection-1.html)
 
+[reflection-2](https://xingyu-wang02.github.io/DATA-100/reflection-2.html)
+
 ## Projects
 
 [project-1 & strech goals](https://xingyu-wang02.github.io/DATA-100/project-1.html)
