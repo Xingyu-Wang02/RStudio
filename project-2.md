@@ -12,4 +12,4 @@ Stretch Goal 1: adm2 subdivision-population
 Stretch Goal 2: adm1 + adm2 subdivision-population
 ![congo population map4](https://xingyu-wang02.github.io/DATA-100/pictures/2s2.png)
 
-Stretch Goal 3: 3D graph
+Stretch Goal 3: 3D graph (something went wrong with my rayshader package and saving the file)
