@@ -1,3 +1,5 @@
+#Reflection 2: Data Science-the new epistemology
+
 **“Revolutions in science have often been preceded by revolutions in measurement.”
 Sinan Aral (cited in Kitchen, 2014) 
 **
