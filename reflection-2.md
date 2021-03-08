@@ -15,6 +15,7 @@ People generate patterns from the large amount of data they gathered. Data delug
 However, the conclusion from it can sometimes only be a source of prediction but not an explanation; the fundamental logic lies behind data is “inductive” but not “deductive.” Therefore, people focus on the “majority”, where they can get the most data, instead of the equally important “minority.” Which means, our understanding of human behavior, through data science, is not comprehensive to a great extent.
 
 —How does data science contribute towards our improved understanding of human development as a complex and adapting social and economic system?
+
 Data Science, with its sophisticated and well designed algorithms, offers ways to examine the data in a new way, base on empiricism. By collecting data and extracting patterns, it provides “the counter problem of handling and analyzing enormous, dynamic, and varied datasets.” Data scientists are able to continue to explore new methods of data science and innovate the application of data on the basis of previous empirical methods.
 
 However, data analysis, although for different data, is based on similar logic and epistemology. Besides, “causation” does not indicate “correlation”. Therefore, it is sometime inappropriate to throw a massive amount of data into computer and get an easy result. The statistical relationship or outcome is the quickest way to handle a complex system but not necessarily the most effective way to it.
