@@ -7,6 +7,8 @@
 
 **Challenge 2**
 Linear Regression Model-Population & Night Time Lights
-![3.2.1](https://xingyu-wang02.github.io/DATA-100/pictures/3.2.1.png)
-Linear Regression Model-Population & Water
+![3.2.0](https://xingyu-wang02.github.io/DATA-100/pictures/3.2.1.png)
+Linear Regression Model-Population & Water (Note: the correlation is quite low)
+![3.2.1](https://xingyu-wang02.github.io/DATA-100/pictures/3.water.png)
+Linear Regression Model-Population & All the variables
 ![3.2.2](https://xingyu-wang02.github.io/DATA-100/pictures/3.2.2.png)
