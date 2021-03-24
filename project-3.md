@@ -21,4 +21,4 @@ Brazzaville difference and poppulation
 ![3.b](https://xingyu-wang02.github.io/DATA-100/pictures/3s1.png)
 
 Brazzaville mapview
-![3.c](https://xingyu-wang02.github.io/DATA-100/pictures/3s2.png)
+![3.c](https://xingyu-wang02.github.io/DATA-100/pictures/3s2-.png)
