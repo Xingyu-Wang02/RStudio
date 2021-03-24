@@ -6,6 +6,7 @@
 ![3.1.2](https://xingyu-wang02.github.io/DATA-100/pictures/3.1.2.png)
 
 **Challenge 2**
+
 Linear Regression Model-Population & Night Time Lights
 ![3.2.0](https://xingyu-wang02.github.io/DATA-100/pictures/3.2.1.png)
 Linear Regression Model-Population & Water (Note: the correlation is quite low)
@@ -14,6 +15,7 @@ Linear Regression Model-Population & All the variables
 ![3.2.2](https://xingyu-wang02.github.io/DATA-100/pictures/3.2.2.png)
 
 **Stretch Goal**
+
 Brazzaville difference and poppulation
 ![3.a](https://xingyu-wang02.github.io/DATA-100/pictures/3s0.png)
 ![3.b](https://xingyu-wang02.github.io/DATA-100/pictures/3s1.png)
