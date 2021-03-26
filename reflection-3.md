@@ -13,7 +13,7 @@ The toaster project is about making a complete toaster from draft. Basically, Th
 
 The economic models do not provide comprehensive views most of the time since the system is more complex than we think. Those models are based on the sum of what happens to individuals and firms. For example, the growth model and the virtuous circle failed to consider the influences of technology. Also, other models may bear no resemblance to reality at all. (e.g. Rober Solow’s neoclassical theory, although mentioned about exogenous technological change aspect, did not explain where the technology comes from) Hence, over the past 50 years, the conventional economic models do not do great on describing the economy growth. Also, for the development difference between Ghana and South Korea, these models fail to provide a persuasive and perfect explanation. 
 
-*Q4. Who was Steve Jones? What did he do at uni-lever? Was he successful? How significant were his results? *
+*Q4. Who was Steve Jones? What did he do at uni-lever? Was he successful? How significant were his results?*
 
 Steve Jones is now a famous evolutionary biologist. He started his career in a soap factory. Generally, he designed a better nozzle by testing different kinds of designs and choosing the “best” one among them. His success brings a tremendous improvement in soap making efficiency and teaches us that, when dealing with a complicated system, it is critical to go through failures and test different approaches. It is more efficient and effective than understanding the underlying logic and develop a universal theory (since it is really hard to have a perfect model, and the models may become outdated in the future)
 
