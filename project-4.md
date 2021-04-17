@@ -1,6 +1,6 @@
 # Project 4
 
-**Challenge 1**
+## Challenge 1
 Brazzaville difference and poppulation
 ![3.a](https://xingyu-wang02.github.io/DATA-100/pictures/3s0.png)
 ![3.b](https://xingyu-wang02.github.io/DATA-100/pictures/3s1.png)
@@ -8,7 +8,7 @@ Brazzaville difference and poppulation
 Brazzaville mapview
 ![3.c](https://xingyu-wang02.github.io/DATA-100/pictures/3s2-.png)
 
-**Challenge 2-Congo-adm2 population predicted**
+## Challenge 2-Congo-adm2 population predicted
 Sum~prediction
 ![4.a](https://xingyu-wang02.github.io/DATA-100/pictures/4.1.png)
 ![4.b](https://xingyu-wang02.github.io/DATA-100/pictures/4.2.png)
