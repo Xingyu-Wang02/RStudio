@@ -12,6 +12,8 @@ I am a freshman at College of William & Mary. I am interested in Economics and S
 
 [reflection-3](https://xingyu-wang02.github.io/DATA-100/reflection-3.html)
 
+[reflection-4](https://xingyu-wang02.github.io/DATA-100/reflection-4.html)
+
 ## Projects
 
 [project-1 & strech goals](https://xingyu-wang02.github.io/DATA-100/project-1.html)
