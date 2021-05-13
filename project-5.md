@@ -10,4 +10,4 @@
 ![access_2.1](https://xingyu-wang02.github.io/DATA-100/pictures/access_2.png)
 
 ## Accessibility 3
-![access_3.1](https://xingyu-wang02.github.io/DATA-100/pictures/access_3.png)
+![access_3.1](https://xingyu-wang02.github.io/DATA-100/pictures/access3.png)
