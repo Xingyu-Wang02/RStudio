@@ -1,5 +1,5 @@
 # Hello World! I'm Xingyu Wang from BEIJING, CHINA🇨🇳
-I am interested in Economics and Statistics. Besides, I am big fun of music and I've learnt to play the piano and the flute. I also love playing sports, especially running and playing badmiton. I have a lovely cat named "Blueberry". Looking forward to meet you all at W&M!
+I am interested in Economics, Statistics, and pure math theories. Besides, I am a piano and flute player. I also love playing sports, especially running and playing badminton. During my first semester at W&M, my friends taught me to play basketball, and it became one of my favorite sports! I have a lovely cat named "Blueberry" and a dog named "Pie." (Yes! I got the idea of my dog's name from the math symbol "π")
 
 ![cat](https://xingyu-wang02.github.io/DATA-100/cat.JPG)
 
