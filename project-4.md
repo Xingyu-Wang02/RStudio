@@ -2,27 +2,27 @@
 
 ## Challenge 1
 Brazzaville difference and poppulation
-![3.a](https://xingyu-wang02.github.io/DATA-100/pictures/3s0.png)
-![3.b](https://xingyu-wang02.github.io/DATA-100/pictures/3s1.png)
+![3.a](https://xingyu-wang02.github.io/RStudio/pictures/3s0.png)
+![3.b](https://xingyu-wang02.github.io/RStudio/pictures/3s1.png)
 
 Brazzaville mapview
-![3.c](https://xingyu-wang02.github.io/DATA-100/pictures/3s2-.png)
+![3.c](https://xingyu-wang02.github.io/RStudio/pictures/3s2-.png)
 
 ## Challenge 2-Congo-adm2 population predicted
 Sum~prediction
-![4.a](https://xingyu-wang02.github.io/DATA-100/pictures/4.1.png)
-![4.b](https://xingyu-wang02.github.io/DATA-100/pictures/4.2.png)
-![4.c](https://xingyu-wang02.github.io/DATA-100/pictures/4.3.png)
+![4.a](https://xingyu-wang02.github.io/RStudio/pictures/4.1.png)
+![4.b](https://xingyu-wang02.github.io/RStudio/pictures/4.2.png)
+![4.c](https://xingyu-wang02.github.io/RStudio/pictures/4.3.png)
 
 Mean~prediction
-![4.d](https://xingyu-wang02.github.io/DATA-100/pictures/4.4.png)
-![4.e](https://xingyu-wang02.github.io/DATA-100/pictures/4.5.png)
-![4.f](https://xingyu-wang02.github.io/DATA-100/pictures/4.6.png)
+![4.d](https://xingyu-wang02.github.io/RStudio/pictures/4.4.png)
+![4.e](https://xingyu-wang02.github.io/RStudio/pictures/4.5.png)
+![4.f](https://xingyu-wang02.github.io/RStudio/pictures/4.6.png)
 
 Log~prediction
-![4.g](https://xingyu-wang02.github.io/DATA-100/pictures/4.7.png)
-![4.h](https://xingyu-wang02.github.io/DATA-100/pictures/4.8.png)
-![4.i](https://xingyu-wang02.github.io/DATA-100/pictures/4.9.png)
+![4.g](https://xingyu-wang02.github.io/RStudio/pictures/4.7.png)
+![4.h](https://xingyu-wang02.github.io/RStudio/pictures/4.8.png)
+![4.i](https://xingyu-wang02.github.io/RStudio/pictures/4.9.png)
 
 **Conclusion**
 
