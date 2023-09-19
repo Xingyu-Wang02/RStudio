@@ -4,7 +4,7 @@ I am interested in Econometrics, Statistics, and pure math theories. Besides, I 
 
 ![cat](https://xingyu-wang02.github.io/DATA-100/cat.JPG)
 
-## Informal Responses:First R "project"-challenge problem
+## Reflection
 
 [Don’t forget people in the use of big data for development](https://xingyu-wang02.github.io/DATA-100/reflection-1.html)
 
