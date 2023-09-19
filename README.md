@@ -4,6 +4,19 @@ I am interested in Econometrics, Statistics, and pure math theories. Besides, I 
 
 ![cat](https://xingyu-wang02.github.io/RStudio/cat.JPG)
 
+
+## Projects
+
+[project-1](https://xingyu-wang02.github.io/RStudio/project-1.html)
+
+[project-2](https://xingyu-wang02.github.io/RStudio/project-2.html)
+
+[project-3](https://xingyu-wang02.github.io/RStudio/project-3.html)
+
+[project-4](https://xingyu-wang02.github.io/RStudio/project-4.html)
+
+[project-5](https://xingyu-wang02.github.io/RStudio/project-5.html)
+
 ## Reflection
 
 [Don’t forget people in the use of big data for development](https://xingyu-wang02.github.io/RStudio/reflection-1.html)
@@ -17,15 +30,4 @@ I am interested in Econometrics, Statistics, and pure math theories. Besides, I 
 [reflection](https://xingyu-wang02.github.io/RStudio/final-reflection.html)
 
 
-## Projects
-
-[project-1](https://xingyu-wang02.github.io/RStudio/project-1.html)
-
-[project-2](https://xingyu-wang02.github.io/RStudio/project-2.html)
-
-[project-3](https://xingyu-wang02.github.io/RStudio/project-3.html)
-
-[project-4](https://xingyu-wang02.github.io/RStudio/project-4.html)
-
-[project-5](https://xingyu-wang02.github.io/RStudio/project-5.html)
 
