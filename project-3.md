@@ -14,6 +14,7 @@ Linear Regression Model-Population & Water (Note: the correlation is quite low)
 Linear Regression Model-Population & All the variables
 ![3.2.2](https://xingyu-wang02.github.io/RStudio/pictures/3.2.2.png)
 
+
 **Stretch Goal**
 
 Brazzaville difference and poppulation
