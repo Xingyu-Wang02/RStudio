@@ -5,17 +5,16 @@ I am interested in Econometrics, Statistics, and pure math theories. Besides, I 
 ![cat](https://xingyu-wang02.github.io/DATA-100/cat.JPG)
 
 ## Informal Responses:First R "project"-challenge problem
-[challenge problem](https://xingyu-wang02.github.io/DATA-100/challenge1.html)
 
-[reflection-1](https://xingyu-wang02.github.io/DATA-100/reflection-1.html)
+[Don’t forget people in the use of big data for development](https://xingyu-wang02.github.io/DATA-100/reflection-1.html)
 
-[reflection-2](https://xingyu-wang02.github.io/DATA-100/reflection-2.html)
+[Data Science-the new epistemology](https://xingyu-wang02.github.io/DATA-100/reflection-2.html)
 
-[reflection-3](https://xingyu-wang02.github.io/DATA-100/reflection-3.html)
+[Development and Complexity, slide and audio lecture by Owen Barder, CGD](https://xingyu-wang02.github.io/DATA-100/reflection-3.html)
 
-[reflection-4](https://xingyu-wang02.github.io/DATA-100/reflection-4.html)
+[Geoff West: scale](https://xingyu-wang02.github.io/DATA-100/reflection-4.html)
 
-[final reflection](https://xingyu-wang02.github.io/DATA-100/final-reflection.html)
+[reflection](https://xingyu-wang02.github.io/DATA-100/final-reflection.html)
 
 
 ## Projects
