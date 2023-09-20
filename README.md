@@ -1,4 +1,4 @@
-# Hello World! I'm Xingyu Wang from BEIJING, CHINA🇨🇳
+# Hello World! I'm Xingyu Wang
 
 I am interested in Econometrics, Statistics, and pure math theories. Besides, I am a piano and flute player. I am a big sports fan (although I don't watch games often), I love running, playing racquetball. My friends taught me to play basketball during my first semester at W&M, and it soon became one of my favorite sports! I have a lovely British shorthair named "Blueberry" and a shiba named "Pie." (Yes! I got the idea of my dog's name from the math symbol "π")
 
