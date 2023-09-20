@@ -7,15 +7,15 @@ I am interested in Econometrics, Statistics, and pure math theories. Besides, I 
 
 ## Projects
 
-[project-1](https://xingyu-wang02.github.io/RStudio/project-1.html)
+[county map](https://xingyu-wang02.github.io/RStudio/project-1.html)
 
-[project-2](https://xingyu-wang02.github.io/RStudio/project-2.html)
+[population map](https://xingyu-wang02.github.io/RStudio/project-2.html)
 
-[project-3](https://xingyu-wang02.github.io/RStudio/project-3.html)
+[LR & 3D map](https://xingyu-wang02.github.io/RStudio/project-3.html)
 
-[project-4](https://xingyu-wang02.github.io/RStudio/project-4.html)
+[log LR & 3D map](https://xingyu-wang02.github.io/RStudio/project-4.html)
 
-[project-5](https://xingyu-wang02.github.io/RStudio/project-5.html)
+[population density map](https://xingyu-wang02.github.io/RStudio/project-5.html)
 
 ## Reflection
 
