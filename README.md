@@ -6,7 +6,7 @@ During college, I started playing basketball, raquetball, and learning karate as
 
 
  
-## Projects
+## R Visualization Projects
 
 [county map](https://xingyu-wang02.github.io/RStudio/project-1.html)
 
