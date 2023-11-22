@@ -2,7 +2,7 @@
 
 I am interested in Statistics, Econometrics, and pure math theories. Besides, I am a piano and flute player. 
 
-During college, I started playing basketball, raquetball, and learning karate as a beginner. I have a lovely British shorthair named "Blueberry" and a shiba named "Pi (or Pie)" (Yes! I got the idea of my dog's name from the math symbol "π")
+In college, I enthusiastically embraced new sports like basketball, racquetball, and karate as a complete beginner. I have a lovely British shorthair named "Blueberry" and a shiba named "Pi (or Pie)" (Yes! I got the idea of my dog's name from the math symbol "π")
 
 
  
