@@ -1,4 +1,4 @@
-# Hello World! I'm Xingyu Wang
+# Hello World! I'm Xingyu (Mary) Wang
 
 I am interested in Statistics, Econometrics, and pure math theories. Besides, I am a piano and flute player. 
 
