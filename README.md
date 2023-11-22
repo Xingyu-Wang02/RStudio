@@ -1,8 +1,9 @@
 # Hello World! I'm Xingyu Wang
 
-I am interested in Econometrics, Statistics, and pure math theories. Besides, I am a piano and flute player. I am a big sports fan (although I don't watch games often), I love running, playing racquetball. My friends taught me to play basketball during my first semester at W&M, and it soon became one of my favorite sports! I have a lovely British shorthair named "Blueberry" and a shiba named "Pie." (Yes! I got the idea of my dog's name from the math symbol "π")
+I am interested in Statistics, Econometrics, and pure math theories. Besides, I am a piano and flute player. 
 
-![cat](https://xingyu-wang02.github.io/RStudio/cat.JPG)
+During college, I started playing basketball, raquetball, and learning karate as a beginner. I have a lovely British shorthair named "Blueberry" and a shiba named "Pi (or Pie)" (Yes! I got the idea of my dog's name from the math symbol "π")
+
 
  
 ## Projects
